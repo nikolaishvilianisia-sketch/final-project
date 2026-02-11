@@ -379,3 +379,11 @@ nav{
 .information{
     color: whitesmoke;
 }
+.contacts{
+    
+    height: 300px;
+    text-align: center;
+}
+.contacts h1{
+    font-size: 30px;
+}
