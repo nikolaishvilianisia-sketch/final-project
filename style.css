@@ -369,6 +369,7 @@ nav{
         flex-direction: column;
         justify-content: space-evenly;
         align-items: center;
+      
 
     }
     .footer-info{
@@ -380,10 +381,12 @@ nav{
     color: whitesmoke;
 }
 .contacts{
-    
+    background-color: cornsilk;
+    color: black;
     height: 300px;
     text-align: center;
 }
 .contacts h1{
     font-size: 30px;
 }
+
